@@ -3,11 +3,9 @@
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-v1.13+-red.svg?logo=PyTorch&style=for-the-badge" /></a>
 <a href="#"><img src="https://img.shields.io/badge/python-v3.8+-blue.svg?logo=python&style=for-the-badge" /></a>
 
-![](G:\User\lz\Desktop\yan\比赛\GEC\对比展示.png)
+<img width="1415" height="720" alt="对比展示" src="https://github.com/user-attachments/assets/b7262036-bfaf-415b-9e99-c18e4f428a3e" />
 
-
-Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) in PyTorch for Kaggle's [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) from high definition images.
-
+Customized implementation of U-Net using PyTorch for river ice detection in remote sensing images.
 - [Quick start](#quick-start)
   - [Without Docker](#without-docker)
 - [Description](#description)
@@ -148,6 +146,6 @@ You can use your own dataset as long as you make sure it is loaded properly in `
 
 Original paper by Olaf Ronneberger, Philipp Fischer, Thomas Brox:
 
-![KAN-UNet](G:\User\lz\Desktop\yan\比赛\GEC\KAN-UNet.png)
+<img width="1632" height="1084" alt="KAN-UNet" src="https://github.com/user-attachments/assets/0ca271c3-0a74-495a-a37e-205a00d8056e" />
 
 
